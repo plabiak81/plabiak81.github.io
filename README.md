@@ -10,7 +10,8 @@ Krótkie adresy dla stron Instal-tig (GitHub Pages, główna domena).
 Inne adresy w tej domenie (np. `/plabiak81/…`, `/Instal-Tig/…`) obsługują swoje repozytoria i działają bez zmian.
 Nieznany adres w głównej domenie przenosi na stronę Instal-tig (`404.html`).
 
-## Generator ofert – dwie kopie
+## Generator ofert
 
-`oferty/index.html` to kopia pliku `5 Narzędzia/generator-ofert.html` z repozytorium `plabiak81`
-(tamta kopia służy do pracy bez internetu, z dysku). Po zmianie generatora skopiuj plik w oba miejsca.
+`oferty/index.html` jest **zaszyfrowany** – otwiera się tylko z hasłem dostępu (potem PIN na urządzeniu).
+To ten sam plik co `5 Narzędzia/generator-ofert.html` w repozytorium `plabiak81`;
+jak go zmieniać: `narzedzia/generator-ofert/README.md` w tamtym repozytorium.
